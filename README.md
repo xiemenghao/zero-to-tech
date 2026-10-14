@@ -5,7 +5,7 @@
 这是一个网页项目，是跟随一个课程一步一步做的
 
 ```html
-<P>hello world github</p>
+<P>在VScode中使用 github</p>
 ```
 
 你需要注意以下几点：
